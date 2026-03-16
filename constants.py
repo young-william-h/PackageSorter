@@ -1,0 +1,7 @@
+STANDARD = 'STANDARD'
+SPECIAL = 'SPECIAL'
+REJECTED = 'REJECTED'
+LENGTH = 'length'
+WIDTH = 'width'
+HEIGHT = 'height'
+MASS = 'mass'
